@@ -13,6 +13,7 @@ I'm a **Lead Power BI Developer** focused on enterprise analytics, data governan
 **Data & Architecture**
 - SQL | Direct Lake | Incremental Refresh | Mirrored Databases
 - Fabric / OneLake
+- Snowflake as a data platform
 
 **Data Ops & Tooling**
 - Atlan: data catalog & documentation
