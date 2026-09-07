@@ -15,9 +15,8 @@ I'm a **Lead Power BI Developer** focused on enterprise analytics, data governan
 - Fabric / OneLake
 
 **Data Ops & Tooling**
-- Atlan — data catalog & documentation
-- Metaplane — data quality & alerting
-- Git / version control for BI assets
+- Atlan: data catalog & documentation
+- Metaplane: data quality & alerting
 
 **Languages**
 - DAX | Power Query (M) | SQL
